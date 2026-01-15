@@ -1,4 +1,4 @@
-# 💫 Hello, My name is Aditya..☀️
+#              💫 Hello, My name is Aditya..☀️
 ## Tech
 Python, Java, Numpy, Pandas, Matplotlib, Seaborn, Html, CSS
 
