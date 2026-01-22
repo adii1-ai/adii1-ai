@@ -1,4 +1,4 @@
-# <h1 align='center'>💫 Hello, My name is Aditya..☀️</h1?
+# <h1 align='center'>💫 Hello, My name is Aditya..☀️</h1>
 ## Tech
 Python, Java, Numpy, Pandas, Matplotlib, Seaborn, Html, CSS
 
